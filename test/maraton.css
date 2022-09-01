@@ -1,0 +1,23 @@
+{
+    color: rgb(37, 34, 34);
+    background-color: rgba(255, 255, 255, 0.993);
+}
+button{
+    font-size: 20px;
+}
+h1,h2{
+    color:  rgb(7, 17, 82);
+}
+#Register{
+    background-color: black;
+
+}
+button:hover{
+    background-color: rgb(17, 210, 17);
+    color: rgb(20, 124, 28);
+   
+}
+
+table, th, td {
+  border: 1px solid black;
+}
